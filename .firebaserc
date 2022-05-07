@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webfejl-idopont": {
+      "hosting": {
+        "idopontfoglalo": [
+          "webfejl-idopont"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webfejl-idopont"
+  }
+}
